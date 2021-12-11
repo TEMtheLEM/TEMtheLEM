@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love neofetch
+I'm TEM. It suprises me you found my page, really. There's nothing interesting here, atleast not yet (Hint hint).
 <!--
 **TEMtheLEM/TEMtheLEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
