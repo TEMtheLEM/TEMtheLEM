@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm TEM. It suprises me you found my page, really. There's nothing interesting here, at least not yet (Hint hint).
+I'm TEM. It suprises me you found my page, really. There's really nothing interesting here..
 <!--
 **TEMtheLEM/TEMtheLEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
