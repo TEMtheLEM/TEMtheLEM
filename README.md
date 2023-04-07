@@ -1,5 +1,3 @@
-### Hi there 👋
-I'm TEM. It suprises me you found my page, really. There's really nothing interesting here.
 <!--
 **TEMtheLEM/TEMtheLEM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+I'm TEMtheLEM. A notable contributor of TailsX, maintainer of https://tailsx.com.
+
+You can email me here; temthelem@duck.com
