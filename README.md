@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I'm TEMtheLEM. A notable contributor of TailsX, maintainer of https://tailsx.com.
 
-You can email me here; temthelem@duck.com
+You can email me at temthelem@duck.com
